@@ -70,11 +70,11 @@
 
 ###
 
-<img align="left" height="146" src="https://media.tenor.com/660lQV3gF9IAAAAM/peppe.gif"  />
+<img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/snake.svg" alt="Snake animation" />
+<img align="left" height="146" src="https://media.tenor.com/aJkfTJvLdbIAAAAM/sad-pepe.gif"  />
 
 ###
 
