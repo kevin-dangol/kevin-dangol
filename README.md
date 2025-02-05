@@ -74,9 +74,13 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/ktcftqm42lrt067h227iz7m3u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ktcftqm42lrt067h227iz7m3u&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ktcftqm42lrt067h227iz7m3u&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
