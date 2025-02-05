@@ -74,7 +74,7 @@
 
 ###
 
-<h1 align="Left">🎧 My Recent Played Songs</h1>
+<h1 align="Left">🎧 My Recently Played Songs</h1>
 
 ###
 <img align="left" height="146" src="https://media.tenor.com/aJkfTJvLdbIAAAAM/sad-pepe.gif"  />
