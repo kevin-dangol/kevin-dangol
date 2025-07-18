@@ -2,7 +2,7 @@
 
 <h1 align="Left">👋 Hello!, I am Kevin <i>aka</i> Asure</h1>
 
-<p align="center">🧑‍🎓I am 19, studying BCS in IIMS university.<br>👨‍💻Currently learning DSA in C++ and computer vision in python.<br>🔗You can contact me from the following.</p>
+<p align="center">🧑‍🎓I am 19, studying BCS in IIMS university.<br>👨‍💻Currently learning Advanced Programming in Java and ML in python.<br>🔗You can contact me from the following.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kevin-dangol-874535318/" target="_blank">
