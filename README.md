@@ -25,7 +25,7 @@
 ###
 
 
-<h1 align="Left">💻 Languages and Tool:</h1>
+<h1 align="Left">💻 Languages and Tech Stack:</h1>
 
 ###
 
@@ -49,6 +49,18 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+
+<h1 align="Left">💻 Languages and Tech Stack:</h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Vscode" height="30" alt="Vscode"  />
+  <img width="9" />
 </div>
 
 ###
