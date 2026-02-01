@@ -54,7 +54,7 @@
 ###
 
 
-<h1 align="Left">💻 Languages and Tech Stack:</h1>
+<h1 align="Left">💻 Tools:</h1>
 
 ###
 
