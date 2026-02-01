@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Vscode" height="30" alt="Vscode"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="30" alt="Vscode"  />
   <img width="9" />
 </div>
 
