@@ -54,7 +54,7 @@
 ###
 
 
-<h1 align="Left">💻 Tools:</h1>
+<!-- <h1 align="Left">💻 Tools:</h1>
 
 ###
 
@@ -63,7 +63,7 @@
   <img width="9" />
 </div>
 
-###
+### -->
 
 <br clear="both">
 
