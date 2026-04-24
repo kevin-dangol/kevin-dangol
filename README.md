@@ -67,7 +67,7 @@
   
   <h3>Design & Creative</h3>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%230d1195.svg?style=flat-square&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobe&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/Lightroom-001E36?style=flat-square&logo=adobe&logoColor=31A8FF"/>
