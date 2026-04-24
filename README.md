@@ -18,6 +18,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevin-dangol.kevin-dangol&"  />
+</div>
+
+###
 
 <h1 align="Left">💻 Languages and Tech Stack:</h1>
 
@@ -103,6 +108,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/snake.svg" alt="Snake animation" />
+  <!-- <img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/pacman-contribution-graph.svg"> -->
 </div>
 
 ###
