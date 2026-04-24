@@ -27,12 +27,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" height="30" alt="adobephotoshop logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" height="30" alt="adobepremierepro logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" height="30"height="30" />
-  <img width="9" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="30" alt="python logo"  />
@@ -51,16 +45,19 @@
 ###
 
 
-<!-- <h1 align="Left">💻 Tools:</h1>
+<h1 align="Left">💻 Tools:</h1>
 
 ###
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="30" alt="Vscode"  />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" height="30" alt="adobephotoshop logo"  />
   <img width="9" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" height="30" alt="adobepremierepro logo"  />
+  <img width="9" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" height="30"height="30" />
 </div>
 
-### -->
+###
 
 <br clear="both">
 
@@ -69,20 +66,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/kevin-dangol/kevin-dangol/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 align="Left">🎧 My Recently Played Songs</h1>
-
-###
-<img align="left" height="146" src="https://media.tenor.com/aJkfTJvLdbIAAAAM/sad-pepe.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ktcftqm42lrt067h227iz7m3u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ktcftqm42lrt067h227iz7m3u&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
