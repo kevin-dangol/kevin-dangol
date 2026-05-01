@@ -35,16 +35,16 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/tailwindcss-%2340817e.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> -->
 
   <br/>
   
@@ -77,9 +77,9 @@
   <br/>
   
   <h3>Design & Creative</h3>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%230d1195.svg?style=flat-square&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobe&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/Lightroom-001E36?style=flat-square&logo=adobe&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/Premiere%20Pro-1F1F2E?style=flat-square&logo=adobe&logoColor=9999FF"/>
